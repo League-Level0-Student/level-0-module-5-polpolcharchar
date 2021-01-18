@@ -18,6 +18,7 @@ rob.setY(300);
 		// #3. Put the robot's pen down
 
 rob.penDown();
+rob.setSpeed(500);
 		// #4. Set the robot’s speed to 5
 rob.setSpeed(5);
 
